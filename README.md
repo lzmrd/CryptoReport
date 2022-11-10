@@ -8,6 +8,7 @@ This program uses Coinmarketcap API to get all cryptocurrencies data. It analyze
 * The best, and the worst, 10 cryptocurrencies in last 24 hours
 
 If you want to try it, you should use:
+``` pip install requests ```
 * python
 * install "requests" library through pip
 * get your API key here: https://coinmarketcap.com/api/
